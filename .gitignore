@@ -9,6 +9,8 @@
 sysinfo.txt
 *.stackdump
 /*/Assets/AssetStoreTools*
+/*/Assets/Oculus/*
+/*/Assets/Photon/*
 *.apk
 *.aab
 *.unitypackage
